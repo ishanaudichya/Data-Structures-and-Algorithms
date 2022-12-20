@@ -27,6 +27,7 @@ int main()
  k=k+1;
  }
  }
+ //Edit
 
  if(k==n){
  printf("Target Element Not Found\n");
